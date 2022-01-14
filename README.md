@@ -8,4 +8,4 @@ However, just because something is publically available does not mean that it is
 Open Source software is an example of just that: information publically available, copyrighted, for use under license.
 
 This issue is just not about ownership.
-For one thing, I do absolutely intend to publish _bad_ source code that I have written to get good performance in/on specific cases/platforms/compilers, that which I absolutely not hold as good examples for others to learn from.
+For one thing, I do absolutely intend to publish _bad_ source code that I have written to get good performance in/on specific cases/platforms/compilers, that which I absolutely not hold as good examples for others to learn from. (See also: [CRAPL](https://matt.might.net/articles/crapl/) )
