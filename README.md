@@ -25,7 +25,7 @@ Open source advocates often talk about the [Four Freedoms](https://en.wikipedia.
 We need to add a _fifth_ freedom: _Freedom_ _from_ _exploitation_.
 
 I am going to forthwith work on software for a _closed_ _web_, for people who have moral fibre, who believe in personal freedom, solidarity and community.
-Software will be available in a web-of-trust, in which only software from verified authors (_human_ authors) will be allowed.
+Software will be available in a web-of-trust, in which only software from verified authors (_human_ authors) will be allowed, and from which it source code is not allowed to leak.
 
 I had rather not wanted to do this. I want to create interesting, useful stuff for everyone to use and contribute.
 But I'd have to do this to protect it, to protect myself and our future.
